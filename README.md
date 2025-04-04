@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Lucas Gabriel
 
-<!--
-**codedbylucas/codedbylucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 HTML | CSS | JavaScript | PHP
+- 🛠️ Bootstrap | jQuery | Composer
+- 🗂️ MySQL | JSON
+- 🔧 Git | GitHub
+---
+
+## 📌 Sobre mim
+
+- 🎓 Sistemas para Internet - FAU
+- 💼 Experiência prévia com logística e sistemas de controle
+- 📈 Buscando minha primeira oportunidade na área de desenvolvimento
+- 📚 Sempre estudando algo novo — atualmente focando em JavaScript, PHP e Laravel
+
+---
+
+## 📫 Contato
+
+- ✉️ lucasgabrielsilvageh@gmail.com  
+- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/lucas-gabriel-16512b331/))
+
+---
+
