@@ -3,7 +3,7 @@
 - 🎓 **Curso:** Sistemas para Internet – FAU  
 - 🚛 **Background:** Experiência com logística e sistemas de controle  
 - 💡 **Objetivo:** Ingressar como desenvolvedor web fullstack  
-- 📚 **Atualmente estudando:** JavaScript moderno, PHP e Laravel  
+- 📚 **Atualmente estudando:** JavaScript, PHP e Laravel  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
