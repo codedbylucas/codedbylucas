@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Sistemas para Internet na FAU**, com experiência em **logística, processos operacionais e sistemas de controle**.
+Sou formado em **Sistemas para Internet na FAU**, com experiência em **logística, bancos financeiros, processos operacionais e sistemas de controle**.
 
 Minha trajetória une visão prática de negócios com tecnologia, permitindo enxergar problemas reais e transformá-los em soluções digitais eficientes.
 
