@@ -1,52 +1,64 @@
-# 👋 Olá! Eu sou o Lucas Gabriel
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Lucas%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Sou estudante de **Sistemas para Internet na FAU**, com experiência em logística e sistemas de controle.  
-Atualmente estou focado em desenvolver minhas habilidades como **Desenvolvedor Web Fullstack**, estudando tecnologias voltadas para front-end, back-end e banco de dados.
+<div align="center">
+
+# 👋 Olá, eu sou o Lucas Gabriel
+
+### Desenvolvedor Web em formação | Fullstack Developer | Sistemas para Internet
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+para+Internet;Apaixonado+por+tecnologia+e+desenvolvimento;Focado+em+JavaScript%2C+PHP+e+Laravel;Construindo+minha+jornada+como+Fullstack" />
+
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 **Curso:** Sistemas para Internet – FAU  
-- 🚛 **Background:** Experiência com logística e sistemas de controle  
-- 💡 **Objetivo:** Atuar como desenvolvedor web fullstack  
-- 📚 **Atualmente estudando:** JavaScript, PHP e Laravel  
-- 🧠 **Interesses:** Desenvolvimento web, sistemas administrativos, automações e banco de dados  
+Sou estudante de **Sistemas para Internet na FAU**, com experiência em **logística, processos operacionais e sistemas de controle**.
+
+Minha trajetória une visão prática de negócios com tecnologia, permitindo enxergar problemas reais e transformá-los em soluções digitais eficientes.
+
+Atualmente estou focado em evoluir como **Desenvolvedor Web Fullstack**, estudando tecnologias modernas para criação de sistemas web, aplicações administrativas, automações e soluções conectadas a banco de dados.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🎯 Objetivo profissional
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="jQuery" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+Meu objetivo é ingressar na área de tecnologia como **Desenvolvedor Web Fullstack**, contribuindo com projetos reais, aprendendo continuamente e evoluindo na construção de aplicações completas, escaláveis e bem estruturadas.
+
+---
+
+## 🧠 Atualmente estudando
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
 </div>
 
 ---
 
-## 📌 Em desenvolvimento
+## 🛠️ Tecnologias e ferramentas
 
-Atualmente estou aprimorando meus conhecimentos em:
+<div align="center">
 
-- JavaScript
-- PHP
-- Laravel
-- TypeScript
-- MySQL
-- Desenvolvimento de aplicações web
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mysql,jquery,git,github,vscode" />
+
+</div>
 
 ---
 
-## 📫 Contato
+## 💼 Áreas de interesse
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgabrielsilvageh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-16512b331/)
-
----
-
-### ✨ Obrigado por visitar meu perfil!
+```txt
+✔ Desenvolvimento Web
+✔ Sistemas Administrativos
+✔ Back-end com PHP e Laravel
+✔ Front-end com HTML, CSS, JavaScript e TypeScript
+✔ Banco de dados MySQL
+✔ Automação de processos
+✔ Integração entre sistemas
